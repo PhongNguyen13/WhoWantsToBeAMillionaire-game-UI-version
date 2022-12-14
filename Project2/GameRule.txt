@@ -1,0 +1,28 @@
+Player needs to answer all 15 questions to win the highest prize which is $1,000,000. They are multiple choices questions, so player needs to decide and select the correct one in a specific time duration (1 minute). If 1 minute is over and player has not chosen an answer yet, player will lose the game.
+
+Lifelines: Player is allowed three Lifelines that is available during the game, but player can only use each once.
+	_ 50/50: eliminates two incorrect choices from the selection, leaving one correct and one incorrect options.
+	_ Ask the Audience: the audience is asked the same question as the player and a poll will be displayed to the player. The result will be shown in chart to distribute the percentage of selection for each choice. Player can choose whether follow the majority answer from the audiences or not.
+	_ Phone a Friend: Player is able to call a friend to ask for the question.
+
+Safe Haven: There are three Safe Haven points at question 5 ($1,000), 10 ($25,000) and 15 ($1,000,000).
+	_ When a player incorrectly answers a question from 1 to 5, the final prize they win is $0.
+	_ When a player incorrectly answers a question from 6 to 10, the final prize they win is $1,000.
+	_ When a player incorrectly answers a question from 11 to 15, the final prize they win is $25,000.
+
+Question value structure:
+	Question 1  : $100
+	Question 2  : $200
+	Question 3  : $300
+	Question 4  : $500
+	Question 5  : $1,000 - Safe Haven point
+	Question 6  : $2,000
+	Question 7  : $4,000
+	Question 8  : $8,000
+	Question 9  : $16,000
+	Question 10: $25,000 - Safe Haven point
+	Question 11: $50,000
+	Question 12: $100,000
+	Question 13: $250,000
+	Question 14: $500,000
+	Question 15: $1,000,000 - Jackpot Prize
